@@ -1,0 +1,12 @@
+name: ghrp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - glob2
+  - openpyxl
+  - jupyterlab
+  - xlrd
+prefix: /home/brian/miniconda3/envs/ghrp
+
